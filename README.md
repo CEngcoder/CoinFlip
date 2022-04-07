@@ -1,2 +1,2 @@
 # CoinFlip
-学习使用Qt框架写翻金币程序
+The prject of Coinflip game by using Qt
